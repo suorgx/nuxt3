@@ -1,4 +1,3 @@
 <template>
-    <v-clock color="blue" />
-    <v-rates />
+    <v-wrapper />
 </template>
